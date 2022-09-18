@@ -1,4 +1,4 @@
-### Oo Hi! 
+### Oo Hi! UwU
 
 <!--
 **Ghosuto/Ghosuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: nothing funny about me
 -->
 ![MasterHead](https://i.pinimg.com/originals/4a/9e/bb/4a9ebb55218cc906cfa12d4a87747e7b.gif)
 <h1 align="center">I'm Raj</h1>
