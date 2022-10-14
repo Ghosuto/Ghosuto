@@ -1,4 +1,4 @@
-### Oo Hi! UwU
+### HELLO! VISITER
 
 <!--
 **Ghosuto/Ghosuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
