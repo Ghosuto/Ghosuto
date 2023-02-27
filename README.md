@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **clash.raja10@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social:</h3>
 <p align="left">
 <a href="https://instagram.com/ig_paintbox" target="blank"><img align="center" src="https://imgur.com/nYHy23h.png" alt="ig_paintbox" height="30" width="40" /></a>
 </p>
