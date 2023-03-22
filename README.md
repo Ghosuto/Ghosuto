@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Welcome</h1>
 <h3 align="center">Nothing Special here</h3>
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ghosuto&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=ebd5ff&title_color=ebd5ff&icon_color=ebd5ff&include_all_commits=true)
-
-
 - 🌱 I’m currently learning **Aosp Building**
 
 - 📫 How to reach me **clash.raja10@gmail.com**
