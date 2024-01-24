@@ -1,6 +1,6 @@
 ![Ghost | ゴースト](https://imgur.com/a/9b9Sctn)
 ---
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ashutosh Chettri a.k.a Viper
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ghost | ゴースト
 
 ### About me
 - I am a student, and self learning guy.
@@ -23,9 +23,9 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ### My stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashutoshchettri&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshchettri&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshchettri&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ghosuto&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghosuto&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosutoi&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
 
 ### Hobbies
 - [Anime & Manga](https://anilist.co/user/Ghosuto/)
