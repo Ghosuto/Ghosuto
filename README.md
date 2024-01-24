@@ -26,6 +26,6 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosuto&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
 
 ### Hobbies
-- [Anime & Manga](https://anilist.co/user/Ghosuto/)
+- [Watch Anime & Read Manga](https://anilist.co/user/Ghosuto/)
 - Games (The Finals, Apex Legends, And Stelth Games)
 - Drawing and Cooking
