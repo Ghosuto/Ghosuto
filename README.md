@@ -1,4 +1,4 @@
-![Ghost | ゴースト](https://imgur.com/a/9b9Sctn)
+![Ghost | ゴースト](https://i.imgur.com/HvPHaNm.jpg)
 ---
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ghost | ゴースト
 
@@ -10,8 +10,6 @@
   <a href="https://www.reddit.com/user/GhosutoX"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/ig_raj2002/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghosuto&label=Profile%20views&color=0e75b6&style=flat" alt="Ghosuto" /> </p>
 
 ### My Device
 - [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php)
