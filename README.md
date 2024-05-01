@@ -1,31 +1,80 @@
-![Ghost | ゴースト](https://i.imgur.com/HvPHaNm.jpg)
----
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ghost | ゴースト
-
-### About me
-- I am a student
-- I don't mind PMs, so feel free to pm me on any of the platforms below
-<p>
-  <a href="https://t.me/Ghosuto7"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
-  <a href="https://www.reddit.com/user/GhosutoX"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/ig_raj2002/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<p align="center">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13925.jpg" width="100%" alt="Ghost Banner"/>
 </p>
 
-### My Device
-- [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php)
-- [ROG Strix G15 Advantage Edition G513](https://rog.asus.com/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/spec/)
+<h1 align="center">Ghost | ゴースト</h1>
 
-### Working Environment
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+<p align="center">
+  <i>静かな完成度が、いちばん美しい</i><br/>
+  <sub>Quiet perfection is the most beautiful</sub>
+</p>
 
-### My stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ghosuto&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghosuto&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosuto&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
+<p align="center">
+  <a href="https://t.me/Ghosuto7"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/GhosutoX"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a>
+  <a href="https://www.instagram.com/3rd_w1sh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
-### Hobbies
-- [Watch Anime & Read Manga](https://anilist.co/user/Ghosuto/)
-- Games (The Finals, Apex Legends, And Stelth Games)
-- Drawing and Cooking
+---
+
+## 🧠 About Me
+- 👤 **Raj** (aka Ghost)  
+- 🎓 Just a student trying to build things that feel right
+- 💬 Open to PMs for dev discussion  
+
+---
+
+## ☕ Support My Work
+If you like what I build and want to support my journey, you can buy me a coffee 🤍  
+It helps a lot with motivation.
+
+<p align="center">
+  <a href="https://buymeacoffee.com/clashraja1p">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,git,github,bash,linux&theme=dark" />
+</p>
+
+---
+
+## 📱 Devices
+- **Nothing Phone (2)** — daily driver & testing  
+- **ROG Strix G15 Advantage Edition** — development & builds  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ghosuto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ghosuto&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Commit Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghosuto&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎨 Hobbies
+- 📺 Anime & Manga → [AniList](https://anilist.co/user/Ghosuto/)  
+- ✏️ Drawing  
+- 📸 Photography  
+- 🎮 Gaming  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ghosuto&label=Profile%20Views&color=7AA2F7&style=flat" />
+</p>
