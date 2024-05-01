@@ -12,7 +12,7 @@
 </p>
 
 ### My Device
-- [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php)
+- [Nothing Phone (2)](https://m.gsmarena.com/nothing_phone_(2)-12386.php)
 - [ROG Strix G15 Advantage Edition G513](https://rog.asus.com/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/spec/)
 
 ### Working Environment
