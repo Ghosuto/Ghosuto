@@ -3,6 +3,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ghost | ゴースト
 
 ### About me
+- Name - Raj
 - I am a student
 - I don't mind PMs, so feel free to pm me on any of the platforms below
 <p>
