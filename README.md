@@ -9,7 +9,7 @@
 <p>
   <a href="https://t.me/Ghosuto7"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
   <a href="https://www.reddit.com/user/GhosutoX"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/ig_raj2002/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/3rd_w1sh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 ### My Device
