@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/HvPHaNm.jpg" width="100%" alt="Ghost Banner"/>
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13925.jpg" width="100%" alt="Ghost Banner"/>
 </p>
 
 <h1 align="center">Ghost | ゴースト</h1>
