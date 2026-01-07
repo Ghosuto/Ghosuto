@@ -24,6 +24,18 @@
 
 ---
 
+## ☕ Support My Work
+If you like what I build and want to support my journey, you can buy me a coffee 🤍  
+It helps a lot with motivation.
+
+<p align="center">
+  <a href="https://buymeacoffee.com/clashraja1p">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,git,github,bash,linux&theme=dark" />
